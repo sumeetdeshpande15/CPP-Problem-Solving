@@ -2,7 +2,7 @@
 #include<cmath>
 using namespace std;
 
-//Program to check whether a given number is Amstrong or not//
+//Program to check whether a given number is an Armstrong Number or not//
 
 int main()
 {
