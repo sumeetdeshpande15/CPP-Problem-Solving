@@ -2,6 +2,8 @@
 #include<cmath>
 using namespace std;
 
+//Program to check whether a given number is Amstrong or not//
+
 int main()
 {
     int num, originalNumber, remainder, result = 0;
