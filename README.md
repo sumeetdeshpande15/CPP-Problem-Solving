@@ -1,2 +1,1 @@
-# Competitive-Programming
-C++ and Python 
+This repository has the problems solved in C++
